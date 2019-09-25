@@ -1,0 +1,4 @@
+applications:
+- name: demo01
+  path: .
+  memory: 1g
